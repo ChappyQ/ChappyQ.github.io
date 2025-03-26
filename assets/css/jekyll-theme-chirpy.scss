@@ -1,3 +1,5 @@
 @use 'main';
 
-@use 'main.bundle' if $jekyll-environment == 'production';
+{% if jekyll.environment == 'production' %}
+@use 'main.bundle';
+{% endif %}
