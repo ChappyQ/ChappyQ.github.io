@@ -31,12 +31,12 @@ github:
 #twitter:
 #  username: twitter_username # change to your Twitter username
 
-social:
+#social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: HYUN DOYEONG
-  email: doyeong.hyun@gmail.com
-  links:
+  #name: HYUN DOYEONG
+  #email: doyeong.hyun@gmail.com
+  # links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your Twitter homepage
     - https://github.com/Qchup # change to your GitHub homepage
@@ -98,7 +98,7 @@ theme_mode: light
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/favicons/coffeeCat.jpg"
+avatar: assets/img/coffeeCat.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
