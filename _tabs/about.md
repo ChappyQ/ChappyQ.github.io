@@ -37,9 +37,9 @@ order: 4
 
 
 ## <u>Game Development</u>
-- [x] `Wanderer` 3인칭 FPS 유니티 C# | 3인 개발 
-- [ ] `Escape` 백룸 탈출 공포 게임 유니티 C# | 1인 개발
-- [ ] 동양풍 비쥬얼 노벨 게임 | 2인 개발
+- [x] `Wanderer` 3인칭 FPS 유니티 C#, 3인 개발
+- [ ] `Escape` 1인칭 백룸 탈출 공포 게임 유니티 C#, 1인 개발
+- [ ] 동양풍 비쥬얼 노벨 게임, 1인 개발
 
 ## <u>Japanese</u>
 - [ ] `Basic` JLPT N5, N4 공부 중
