@@ -5,8 +5,8 @@ order: 4
 ---
 
 
-# **🍅Qchup Studios🍅**     
-- Hello, I'm **Qchup(큐찹)**, also known as **DOYEONG HYUN(현도영)**. I document my studies and hobbies here.
+# **🍮ChappyQ Studios🍮**     
+- Hello, I'm **ChappyQ(채피큐)**, also known as **DOYEONG HYUN(현도영)**. I document my studies and hobbies here.
 
 
 &nbsp;
@@ -17,7 +17,7 @@ order: 4
 -  `Education` Incheon National University, College of Information Technology, Dept. of Computer Science & Engineering
 
   
-- [`Github`](https://github.com/Qchup) 
+- [`Github`](https://github.com/ChappyQ) 
 
 
 ## <u>Interests</u>
@@ -38,11 +38,8 @@ order: 4
 
 ## <u>Game Development</u>
 - [x] `Wanderer` 3인칭 FPS 유니티 C#, 3인 개발
-- [ ] `Escape` 1인칭 백룸 탈출 공포 게임 유니티 C#, 1인 개발
-- [ ] 동양풍 비쥬얼 노벨 게임, 1인 개발
+- [x] `Escape` 1인칭 백룸 탈출 공포 게임 유니티 C#, 1인 개발
+- [ ] 비주얼 노벨 & 퍼즐 게임 개발 예정
 
 ## <u>Japanese</u>
 - [ ] `Basic` JLPT N5, N4 공부 중
-
-## <u>Qualifications</u>
-- [ ] `정보처리기사` Engineer Information Processing Qualification
